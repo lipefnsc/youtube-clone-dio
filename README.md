@@ -31,4 +31,4 @@ To run it:
 
 ## Preview:
 
-![alt text](image.png)
+![alt text](./assets/images/preview.png)
